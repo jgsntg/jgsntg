@@ -13,19 +13,19 @@ A small portfolio of personal AI products, each scratching a real itch in my own
 #### 📊 [MyLedger](https://github.com/jgsntg/myledger) — Personal Portfolio Intelligence
 A TypeScript app for tracking and analyzing my personal investment portfolio. Built to give myself the visibility and insight layer my bank's tools don't.
 
-#### 📅 [CitasOnDemand](https://github.com/jgsntg/citasondemand) — Appointments Management for Small Business
+#### 📅 [CitasOnDemand](https://github.com/jgsntg/CitasOnDemand) — Appointments Management for Small Business
 An online appointments platform built for small businesses that need bookings without enterprise overhead. Lightweight, mobile-first, owner-friendly.
 
-#### 📚 [BookCompanion](https://github.com/jgsntg/bookcompanion) — Your AI Reading Companion
+#### 📚 [BookCompanion](https://github.com/jgsntg/BookCompanion) — Your AI Reading Companion
 Enhances digital and audio book experiences with tailored, on-demand summaries and recall prompts. Built because I read a lot and forget too much.
 
-#### 📄 [TailoringAssistant](https://github.com/jgsntg/tailoringassistant) — Resume Tailoring with Side-by-Side Model Comparison
+#### 📄 [TailoringAssistant](https://github.com/jgsntg/TailoringAssistant) — Resume Tailoring with Side-by-Side Model Comparison
 Helps tailor a resume to a specific job posting and compares model outputs side by side, so you can see how different LLMs frame the same person. Useful as a tool, useful as a model-evaluation playground.
 
-#### 🍷 [MyCellar](https://github.com/jgsntg/mycellar) — Personal Wine Collection Tracker
+#### 🍷 [MyCellar](https://github.com/jgsntg/MyCellar) — Personal Wine Collection Tracker
 A wine collection tracker with a built-in sommelier assistant. Pairings, tasting notes, and inventory in one place.
 
-#### ⚽ [MySportsApp](https://github.com/jgsntg/mysportsapp) — Command Center for Your Sports
+#### ⚽ [MySportsApp](https://github.com/jgsntg/MySportsApp) — Command Center for Your Sports
 One dashboard for the teams, leagues, and games I actually care about — without the noise of generic sports apps.
 
 > *I also keep one private prototype, **SayBuild**, exploring an agentic framework that takes a product idea from ideation to buildable spec. Happy to walk through it in a conversation.*
